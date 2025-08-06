@@ -1,5 +1,5 @@
 ## Prerequisites
-Make sure you have Node.js (version 14.18 or higher) and npm installed.
+Make sure you have Node.js (version 20 or higher) and npm installed.
 
 ---
 
